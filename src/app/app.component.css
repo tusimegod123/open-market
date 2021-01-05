@@ -1,0 +1,470 @@
+
+#try{
+    /* position: absolute;
+    width: 1672px;
+    height: 64px;
+    left: -1px;
+    top: -2px; */
+    
+    /* #243853 */
+    
+    background: #243853;
+    box-shadow: 0px 24px 50px rgba(0, 0, 0, 0.25); 
+   
+}
+#open-market{
+ 
+
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Gray 6 */
+
+color: #F2F2F2;
+}
+#nav-link{
+    color: #FFFFFF;
+}
+.hello{
+padding: 9px 32px;
+height: 40px;
+background: #584DCD;
+border-radius: 6px;
+}
+#login{
+/* Login */
+padding: 10px;
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #FFB55E;
+}
+.sub-menu{
+    text-decoration: none;
+    list-style: none;
+    
+    
+}
+
+#fluid-one{
+background: #243853;
+/* position: absolute; */
+height: 750px;
+left: -1px;
+top: 59px;
+border-bottom-right-radius: 2050px 200px;
+}
+#ellipse{
+/* Ellipse 7 */
+/* position: absolute; */
+width: 400.89px;
+height: 300.81px;
+border-bottom-left-radius: 500px;
+border-bottom-right-radius: 650px 300px;
+margin-left: 400px;
+background: #FFB55E;
+}
+#ellipse11{
+    /* Ellipse 70 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: -50px;
+top: 180px;
+background: #C85D3B;
+border-radius: 50%;
+}
+#ellipse22{
+position: absolute;
+width: 16px;
+height: 16px;
+left: -20px;
+top: 130px;
+border-radius: 50%;
+background: #FCCF00;
+
+}
+#ellipse33{
+position: absolute;
+width: 20px;
+height: 20px;
+left: -70px;
+top: 115px;
+border-radius: 50%;
+background: #05C699;
+}
+#image{
+/* Ellipse 74 */
+/* position: absolute; */
+width: 512px;
+height: 512px;
+margin-top: -230px;
+margin-left: 200px;
+border-radius: 50%;
+/* background: url(image.png); */
+/* #05C699 */
+
+border: 6px solid #05C699;
+box-sizing: border-box;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#sell{
+/* position: absolute; */
+padding: 50px;
+margin: 10px;
+width: 565px;
+height: 68px;
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 68px;
+color: #F2F2F2;
+}
+#join{
+
+padding: 20px;
+margin: 30px;
+width: 547px;
+height: 132px;
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 44px;
+color: #F2F2F2;
+}
+#btnn{
+
+padding: 10px;
+margin: 40px;
+
+
+background: #584DCD;
+border-radius: 6px;
+}
+#word{
+    /* Get Started */
+/* position: static; */
+font-size: 20px;
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+/* font-size: 16px; */
+
+/* identical to box height */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
+}
+#go-to-market{
+    /* Go to marketplace >> */
+
+
+/* position: absolute; */
+width: 201px;
+height: 27px;
+left: 244px;
+top: 528px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+/* #FFB55E */
+
+color: #FFB55E;
+}
+#fluid-two{
+/* position: absolute;   */
+/* width: 1076px;
+height: 626px; */
+left: 182px;
+margin-top: -55px;
+
+background: #F2F2F2;
+border-radius: 6px;
+}
+#ooooo{
+margin-top: -95px;
+height: 626px; 
+background: #ffffff;
+border-radius: 6px;
+}
+#ooooo1{
+    margin-bottom: 400px; 
+}
+#openmarket{
+    /* Openmarket is an online marketplace that connects buyers and sellers worldwide. */
+/* width: 862px;
+height: 110px; */
+/* left: 289px;
+top: 887px; */
+/* text-align: center; */
+font-family: Avenir;
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 55px;
+text-align: center;
+margin-top: 30px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+#fluid-three{
+    /* position: absolute; */
+/* width: 919px; */
+height: 668px;
+/* left: 260px; */
+top: 1044px;
+
+/* Gray 6 */
+
+/* background: #F2F2F2; */
+border: 6px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+}
+#mixed-yellow{
+    margin-top: -450px;
+    /* background: #F2F2F2; */
+    
+}
+#ryellow{
+    background-color: #FCCF00;
+}
+#cards{
+    width: 197.27px;
+height: 125.13px;
+border-radius: 4px;
+/* margin-left: 1rem; */
+
+}
+#div-color{
+    background:#F2F2F2;
+    
+}
+#why{
+    margin-left: 76px;
+    margin-top: 80px;
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 45px;
+line-height: 61px;
+color: #000000;
+}
+#open-market-brings{
+margin-left: 76px;      
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+color: #000000;
+}
+#artificial{
+    background: #c6ccd4;
+border-radius: 4.3566px;
+
+}
+#artificial-heading{
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 27px;
+color: #333333;
+
+}
+
+#security{
+background: #d2d1e2;
+
+border-radius: 4.3566px;
+}
+#quality{
+background: #ffefdc;
+
+border-radius: 4.3566px;
+}
+#affordable{
+background: #d0f5ec;
+height: 65px;
+border-radius: 4.3566px;
+}
+#pay{
+background: #fae2db;
+
+border-radius: 4.3566px;
+}
+
+#tryimage{
+width: 500px;
+height: 351.38px;
+margin-top:45px;;
+}
+#connecting{
+    margin-top: 50px;
+}
+#connecting-paragraph{
+
+font-size: 24px;
+line-height: 36px;
+
+}
+/* #imge{
+    text-align: center;
+    
+} */
+/* #why-container1{
+   background-color: red;
+    border-bottom-right-radius: 650px 300px;
+    height: 1000px;
+} */
+#why-container{
+    background-color:#FFFFFF;
+   margin-top: 150px;
+   
+   
+}
+#imageclass{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50PX;
+}
+#imageclass1{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 45PX;
+}
+#safety{
+    /* margin-left: 60px; */
+    /* height: 500px; */
+    background: #FCCF00;
+    
+}
+#safety-heading{
+font-weight: 700;
+font-size: 45px;
+line-height: 61px;
+margin-top: 60px;
+}
+#safety-paragraph{
+    
+    font-family: Avenir;
+font-style: normal;
+
+font-size: 24px;
+line-height: 36px;
+ }
+ #tryimage1{
+    width: 500px;
+    height: 351.38px;
+    margin-top: 60px;
+    
+}
+#join-community{
+    margin-top: 70px;
+}
+#tryimage2{
+width: 426px;
+height: 410px;
+margin-top: 60px;
+    
+}
+#btnnn{ 
+    background: #584DCD;
+    border-radius: 6px;
+    }
+#footer{
+    background-color: #c4c4c4;
+}    
+#connect{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 68px;
+color: #333333;
+margin-top: 60px;
+margin-left: 20px;
+}
+#connect2{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+margin-left: 20px;
+color: #333333;
+margin-top: -30px;
+}
+#footer-image{
+    margin-left: 20px;  
+    padding-right: 30px;
+}
+#footer-image1{
+    padding-right: 30px;
+}
+#contact-email{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+margin-left: 20px; 
+}
+#privacy{
+margin-top: 60px;
+font-family: Avenir;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #333333;
+}
+#privacy-ps{
+    font-family: Avenir;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 19px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+#copyright{
+margin-top: 60px; 
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+
+color: #333333;  
+}
