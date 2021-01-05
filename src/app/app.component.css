@@ -57,8 +57,8 @@ color: #FFB55E;
 background: #243853;
 /* position: absolute; */
 height: 750px;
-left: -1px;
-top: 59px;
+/* left: -1px;
+top: 59px; */
 border-bottom-right-radius: 2050px 200px;
 }
 #ellipse{
@@ -105,17 +105,15 @@ background: #05C699;
 #image{
 /* Ellipse 74 */
 /* position: absolute; */
-width: 512px;
-height: 512px;
-margin-top: -230px;
-margin-left: 200px;
-border-radius: 50%;
+ /* width: 450px;
+height: 612px; */
+/* margin-top: -230px; */
+/* margin-left: 400px; */
+/* border-radius: 50%; */
 /* background: url(image.png); */
 /* #05C699 */
+border-bottom-right-radius: 200px 200px;
 
-border: 6px solid #05C699;
-box-sizing: border-box;
-transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 #sell{
 /* position: absolute; */
@@ -197,13 +195,14 @@ color: #FFB55E;
 }
 #fluid-two{
 /* position: absolute;   */
-/* width: 1076px;
-height: 626px; */
-left: 182px;
+/* width: 1076px; */
+height: 550px; 
+
 margin-top: -55px;
 
 background: #F2F2F2;
 border-radius: 6px;
+border-bottom-right-radius: 2050px 200px;
 }
 #ooooo{
 margin-top: -95px;
@@ -212,7 +211,8 @@ background: #ffffff;
 border-radius: 6px;
 }
 #ooooo1{
-    margin-bottom: 400px; 
+    /* margin-bottom: 400px;  */
+    background-color: #F2F2F2;
 }
 #openmarket{
     /* Openmarket is an online marketplace that connects buyers and sellers worldwide. */
@@ -236,16 +236,16 @@ color: #333333;
 #fluid-three{
     /* position: absolute; */
 /* width: 919px; */
-height: 668px;
+/* height: 668px; */
 /* left: 260px; */
-top: 1044px;
+/* top: 1044px; */
 
 /* Gray 6 */
 
 /* background: #F2F2F2; */
-border: 6px solid #FFFFFF;
+/* border: 6px solid #FFFFFF;
 box-sizing: border-box;
-box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1); */
 }
 #mixed-yellow{
     margin-top: -450px;
@@ -268,7 +268,7 @@ border-radius: 4px;
 }
 #why{
     margin-left: 76px;
-    margin-top: 80px;
+    margin-top: auto;
 font-family: Avenir;
 font-style: normal;
 font-weight: 900;
