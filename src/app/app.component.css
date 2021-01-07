@@ -187,7 +187,7 @@ line-height: 36px;
 color: #000000;
 }
 #artificial{
-margin-top: -20px;
+margin-top: 70px;
 background: #c6ccd4;
 border-radius: 4.3566px;
 }
@@ -199,6 +199,57 @@ font-size: 20px;
 line-height: 27px;
 color: #333333;
 }
+#textclass{
+font-family: Avenir;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#textclass1{
+    font-family: Avenir;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    }
+    #textclass2{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        }
+        #textclass3{
+            font-family: Avenir;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 19px;
+            letter-spacing: 0em;
+            text-align: left;
+            
+            }
+            #textclass4{
+                font-family: Avenir;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 19px;
+                letter-spacing: 0em;
+                text-align: left;
+                margin-top: -5px;
+                
+                }
 #security{
 background: #d2d1e2;
 border-radius: 4.3566px;
@@ -242,18 +293,48 @@ margin-top: 150px;
 #art{
 margin-top: 50px;
 }
+#Ellipse-12{
+    margin-left: 70px;
+}
+#Ellipse-13{
+    margin-left: 270px;
+    margin-top: -200px;
+}
+#Ellipse-14{
+    margin-left: 230px;
+    margin-top: -420px;
+}
+    #imageclassA{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+    }
 #imageclass{
-float: left;
-margin: 15px;
-border-radius: 50%;
-width: 50PX;
-}
-#imageclass1{
-float: left;
-margin: 15px;
-border-radius: 50%;
-width: 45PX;
-}
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50PX;
+    }
+    #imageclass4{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        }
+    #imageclass11{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50PX;
+    margin-top: 25px;
+    }
+    #imageclass1{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 45PX;
+    }
 #safety{
 background: #FCCF00;   
 }
@@ -444,6 +525,90 @@ color: #333333;
         text-align: left;
         margin-left: 35px;
     }
+    #artificial{
+        margin-top: -70px;
+        background: #c6ccd4;
+        border-radius: 4.3566px;
+        }
+        #imageclass{
+            float: left;
+            margin: 15px;
+            border-radius: 50%;
+            width: 50PX;
+            margin-top: 25px;
+            }
+    #imageclass11{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 40px;
+    }
+    #imageclassA{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 25px;
+        }
+        #imageclass4{
+            float: left;
+            margin: 15px;
+            border-radius: 50%;
+            width: 50PX;
+            margin-top: 25px;
+            }
+    #textclass{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }   
+    #textclass1{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-left: 79px;
+
+    } 
+    #textclass2{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    } 
+    #textclass3{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    } 
+    #textclass4{
+        font-family: Avenir;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }  
     #open-market-brings{
         margin-left: 35px;      
         font-family: Avenir;
