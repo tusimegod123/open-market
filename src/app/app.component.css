@@ -1,5 +1,6 @@
 #body{
     background-color: #F2F2F2;
+    font-family: Avenir;
 }
 #try{
     background: #243853;
@@ -12,7 +13,7 @@
 font-family: Avenir;
 font-style: normal;
 font-weight: 900;
-font-size: 32px;
+font-size: 2rem;
 line-height: 44px;
 color: #F2F2F2;
 }
@@ -30,7 +31,7 @@ padding: 10px;
 font-family: Avenir;
 font-style: normal;
 font-weight: normal;
-font-size: 16px;
+/* font-size: 1rem; */
 line-height: 22px;
 color: #FFB55E;
 }
@@ -44,40 +45,37 @@ background: #243853;
 height: 750px;
 border-bottom-right-radius: 2050px 200px;
 }
-#ellipse{
-width: 400.89px;
-height: 300.81px;
-border-bottom-left-radius: 500px;
-border-bottom-right-radius: 650px 300px;
-margin-left: 400px;
-background: #FFB55E;
+#ellipse7{
+width: 777px;
+height: 426px;
+
+margin-left: 15px;
+
 }
-#ellipse11{
-position: absolute;
-width: 30px;
-height: 30px;
-left: -50px;
-top: 180px;
-background: #C85D3B;
-border-radius: 50%;
+#ellipse74{
+    width: 450px;
+    margin-left: -80px;
+    margin-top: -350px;
+    
+    
 }
-#ellipse22{
-position: absolute;
-width: 16px;
-height: 16px;
-left: -20px;
-top: 130px;
-border-radius: 50%;
-background: #FCCF00;
+#ellips70{
+
+margin-left: -90px;
+width: 40px;
+margin-top: -930px;
+
+
 }
-#ellipse33{
-position: absolute;
-width: 20px;
-height: 20px;
-left: -70px;
-top: 115px;
-border-radius: 50%;
-background: #05C699;
+#ellipse75{
+    margin-left: -130px;
+    width: 30px;
+    margin-top: -1130px;
+}
+#ellipse71{
+    margin-left: -50px;
+    width: 20px;
+    margin-top: -1200px;
 }
 #image{
 border-bottom-right-radius: 200px 200px;
@@ -87,7 +85,7 @@ margin: 30px;
 font-family: Avenir;
 font-style: normal;
 font-weight: 900;
-font-size: 40px;
+font-size: 3rem;
 line-height: 68px;
 color: #F2F2F2;
 }
@@ -96,7 +94,7 @@ margin: 30px;
 font-family: Avenir;
 font-style: normal;
 font-weight: normal;
-font-size: 32px;
+font-size: 2rem;
 line-height: 44px;
 color: #F2F2F2;
 }
@@ -201,53 +199,58 @@ color: #333333;
 }
 #textclass{
 font-family: Avenir;
-font-size: 14px;
+font-size: 0.9em;
 font-style: normal;
 font-weight: 400;
 line-height: 19px;
 letter-spacing: 0em;
 text-align: left;
+padding: 5px;
 
 }
 #textclass1{
     font-family: Avenir;
-    font-size: 14px;
+    font-size: 0.9em;
     font-style: normal;
     font-weight: 400;
     line-height: 19px;
     letter-spacing: 0em;
     text-align: left;
+    padding: 5px;
     
     }
     #textclass2{
         font-family: Avenir;
-        font-size: 14px;
+        font-size: 0.9em;
         font-style: normal;
         font-weight: 400;
         line-height: 19px;
         letter-spacing: 0em;
         text-align: left;
+        padding: 5px;
         
         }
         #textclass3{
             font-family: Avenir;
-            font-size: 14px;
+            font-size: 0.9em;
             font-style: normal;
             font-weight: 400;
             line-height: 19px;
             letter-spacing: 0em;
             text-align: left;
+            padding: 5px;
             
             }
             #textclass4{
                 font-family: Avenir;
-                font-size: 14px;
+                font-size: 0.9em;
                 font-style: normal;
                 font-weight: 400;
                 line-height: 19px;
                 letter-spacing: 0em;
                 text-align: left;
                 margin-top: -5px;
+                padding: 5px;
                 
                 }
 #security{
@@ -266,6 +269,7 @@ border-radius: 4.3566px;
 #pay{
 background: #fae2db;
 border-radius: 4.3566px;
+margin: 1px;
 }
 #tryimage{
 width: 500px;
@@ -434,19 +438,47 @@ margin-left: 100px;
 color: #333333;  
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 375px) {
     #fluid-one{
         background: #243853;
         height: 650px;
         border-bottom-right-radius: 2050px 200px;
     }
-    #girl{
-        position: relative;
-        margin-top: -390px;
-    }
+    #ellipse7{
+        width: 280px;
+        height: 180px;
+        margin-top: -599px;
+        margin-left: 79px;
+        
+        }
+        #ellipse74{
+            width: 200px;
+            margin-left: 80px;
+            margin-top: -550px;
+            
+            
+        }
+        #ellips70{
+        
+            margin-top: -750px;
+            width: 10px;
+            margin-left: 60px;
+        
+        
+        }
+        #ellipse75{
+            margin-top: -870px;
+            width: 10px;
+            margin-left: 40px;
+        }
+        #ellipse71{
+            margin-top: -950px;
+            width: 10px;
+            margin-left: 70px;
+        }
     #join{ 
         position: relative;
-        top: 270px;
+        top: 230px;
         color: #F2F2F2;
         width: 100%;
         margin-left: 3px;
@@ -460,7 +492,7 @@ color: #333333;
     }
     #sell{
         position: relative;
-        top: 300px;
+        top: 250px;
         color: #F2F2F2;
         width: 100%;
         margin-left: 5px;
@@ -473,12 +505,12 @@ color: #333333;
         text-align: center;
     }
     #btnn{
-        margin-left: -15px;
+        margin-left: -45px;
         position: relative;
         height: 40px;
         width: 147px;
         left: 133px;
-        top: 210px;
+        top: 170px;
         border-radius: 6px;
         padding: 9px, 32px, 9px, 32px;
     }
@@ -488,7 +520,7 @@ color: #333333;
         margin-left: -180px;
         width: 201px;
         left: 106px;
-        top: 260px;
+        top: 215px;
         border-radius: nullpx;
         font-family: Avenir;
         font-size: 20px;
@@ -542,14 +574,14 @@ color: #333333;
         margin: 15px;
         border-radius: 50%;
         width: 50PX;
-        margin-top: 40px;
+        margin-top: 50px;
     }
     #imageclassA{
         float: left;
         margin: 15px;
         border-radius: 50%;
         width: 50PX;
-        margin-top: 25px;
+        margin-top: 45px;
         }
         #imageclass4{
             float: left;
@@ -632,4 +664,91 @@ color: #333333;
         line-height: 36px;
         font-weight: 500;
     }
+#connecting{
+margin-top: 50px;
+text-align: center;
+}
+#connecting-paragraph{
+font-size: 20px;
+line-height: 36px;
+text-align: center;
+}
+#join-community{
+    margin-top: 70px;
+    text-align: center;
+    }
+    #btnnn{
+        text-align: center;
+        margin-left: 90px;
+    }
+#privacy-ps{
+font-family: Avenir;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 19px;
+/* margin-left: 100px; */
+color: #333333;
+/* text-align: center; */
+margin-left: 80px;
+
+} 
+#connect{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 68px;
+color: #333333;
+margin-top: 60px;
+margin-left: 80px;
+}  
+#connect2{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+margin-left: 100px;
+color: #333333;
+margin-top: -30px;
+margin-left: 83px;
+}   
+#privacy{
+margin-top: 65px;
+font-family: Avenir;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #333333;
+margin-left: 80px;
+} 
+#footer-image{
+    text-align: center;
+    margin-left: 80px;  
+    padding-right: 30px;
+
+    }
+    #footer-image1{
+    padding-right: 25px;
+    margin-left: -10px;
+    }
+    #contact-email{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-left: 80px; 
+    }  
+#copyright{
+        margin-top: 65px; 
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        margin-left: 80px;
+        color: #333333;  
+        }               
 }
