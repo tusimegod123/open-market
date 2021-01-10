@@ -438,7 +438,7 @@ margin-left: 100px;
 color: #333333;  
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (min-width: 375px) {
     #fluid-one{
         background: #243853;
         height: 650px;
@@ -447,8 +447,8 @@ color: #333333;
     #ellipse7{
         width: 280px;
         height: 180px;
-        margin-top: -599px;
-        margin-left: 79px;
+        margin-top: -516px;
+        margin-left: 119px;
         
         }
         #ellipse74{
@@ -555,7 +555,7 @@ color: #333333;
         margin-top: 50px;
         font-size: 32px;
         text-align: left;
-        margin-left: 35px;
+        margin-left: 10px;
     }
     #artificial{
         margin-top: -70px;
@@ -642,7 +642,7 @@ color: #333333;
 
     }  
     #open-market-brings{
-        margin-left: 35px;      
+        margin-left: 10px;      
         font-family: Avenir;
         font-style: normal;
         font-weight: normal;
