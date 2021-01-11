@@ -45,14 +45,14 @@ background: #243853;
 height: 750px;
 border-bottom-right-radius: 2050px 200px;
 }
-#ellipse7{
+#ellipse7-orange{
 width: 777px;
 height: 426px;
 
 margin-left: 15px;
 
 }
-#ellipse74{
+#ellipse74-girl{
     width: 450px;
     margin-left: -80px;
     margin-top: -350px;
@@ -99,7 +99,6 @@ line-height: 44px;
 color: #F2F2F2;
 }
 #btnn{
-
 margin: 40px;
 background: #584DCD;
 border-radius: 6px;
@@ -438,50 +437,46 @@ margin-left: 100px;
 color: #333333;  
 }
 
-@media only screen and (min-width: 375px) {
+@media only screen and (max-width:375px) {
+    
     #fluid-one{
         background: #243853;
         height: 650px;
         border-bottom-right-radius: 2050px 200px;
     }
-    #ellipse7{
-        width: 280px;
-        height: 180px;
-        margin-top: -516px;
-        margin-left: 119px;
-        
-        }
-        #ellipse74{
-            width: 200px;
-            margin-left: 80px;
-            margin-top: -550px;
-            
-            
-        }
-        #ellips70{
-        
-            margin-top: -750px;
-            width: 10px;
-            margin-left: 60px;
-        
-        
-        }
-        #ellipse75{
-            margin-top: -870px;
-            width: 10px;
-            margin-left: 40px;
-        }
-        #ellipse71{
-            margin-top: -950px;
-            width: 10px;
-            margin-left: 70px;
-        }
+    #ellipse7-orange{
+        width: 240px;
+        height: 140px;
+        margin-top: -552px;
+        margin-left: 119px; 
+    }
+    #ellips70{
+        margin-top: -740px;
+        width: 10px;
+        margin-left: 90px;
+    }
+    #ellipse75{
+        margin-top: -860px;
+        width: 10px;
+        margin-left: 68px;
+    }
+    #ellipse71{
+        margin-top: -955px;
+        width: 10px;
+        margin-left: 95px;
+    }
+    #ellipse74-girl{
+        width: 200px;
+        margin-left: 80px;
+        margin-top: -477px; 
+    }
+   
     #join{ 
         position: relative;
         top: 230px;
         color: #F2F2F2;
         width: 100%;
-        margin-left: 3px;
+        margin-left: 2px;
         font-family: Avenir;
         font-size: 20px;
         font-style: normal;
@@ -493,11 +488,11 @@ color: #333333;
     #sell{
         position: relative;
         top: 250px;
-        color: #F2F2F2;
+        color:#FFFFFF;
         width: 100%;
-        margin-left: 5px;
+        margin-left: 1px;
         font-family: Avenir;
-        font-size: 32px;
+        font-size: 1.8rem;
         font-style: normal;
         font-weight: 900;
         line-height: 44px;
@@ -505,37 +500,27 @@ color: #333333;
         text-align: center;
     }
     #btnn{
-        margin-left: -45px;
+        margin-left: -40px;
         position: relative;
         height: 40px;
-        
         left: 133px;
         top: 170px;
-        border-radius: 6px;
-       
+        border-radius: 6px;  
     }
     #word{
         font-size: 1rem;
         font-family: Avenir;
         font-style: normal;
         font-weight: normal;
-        color: #FFFFFF;
-        
-        }
-        #ooooo{
-            margin-top: -90px;
-            height: 626px; 
-            background: red;
-            border-radius: 6px;
-            margin-left: -30px;
-            }
+        color: #FFFFFF;    
+    }
     #go-to-market{
         position: relative;
         height: 27px;
         margin-left: -180px;
         width: 201px;
-        left: 106px;
-        top: 215px;
+        left: 126px;
+        top: 224px;
         border-radius: nullpx;
         font-family: Avenir;
         font-size: 20px;
@@ -546,12 +531,214 @@ color: #333333;
         text-align: left;
     }
     #ooooo{
-        margin-top: -70px;
+        margin-top: -90px;
         height: 226px; 
         background: #ffffff;
         border-radius: 6px;
         width: 90%;
-        margin-left: 15px;
+        margin-left: 17px;
+    }
+    #openmarket{
+        margin-top: 30px;
+        font-family: Avenir;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #why-container{
+        background-color:#FFFFFF;
+        margin-top: 100px;  
+    }
+    #why{
+        margin-top: 50px;
+        font-size: 2rem;
+        text-align: left;
+        margin-left: 11px;
+    }
+    #open-market-brings{
+        margin-left: 10px;      
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        color: #000000;
+    }
+    #artificial{
+        margin-top: -80px;
+        background: #c6ccd4;
+        border-radius: 4.3566px;
+    }
+    #imageclassA{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 45px;
+    }
+    #imageclass11{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 55px;
+    }
+    #imageclass{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 33px;
+    }
+    #imageclass4{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 25px;
+    }
+    #connecting{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2rem;
+    }
+    #connecting-paragraph{
+    font-size: 1rem;
+    line-height: 36px;
+    text-align: center;
+    }
+    #safety-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;;
+    line-height: 44px;
+    margin-top: 60px;
+    }
+    #safety-paragraph{
+    font-family: Avenir;
+    font-style: normal;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 36px;
+    font-weight: 500;
+    }
+    #join-community{
+        margin-top: 70px;
+        font-size: 2rem;
+        text-align: center;
+        }
+    #connecting-paragraph{
+        font-size: 1rem;
+        line-height: 36px;
+        text-align: center;
+    }
+    #btnnn{
+        
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (min-width:414px) {
+    
+    #fluid-one{
+        background: #243853;
+        height: 650px;
+        border-bottom-right-radius: 2050px 200px;
+    }
+    #ellipse7-orange{
+        width: 240px;
+        height: 150px;
+        margin-top: -545px;
+        margin-left: 158px; 
+    }
+    #ellips70{
+        margin-top: -740px;
+        width: 10px;
+        margin-left: 90px;
+    }
+    #ellipse75{
+        margin-top: -860px;
+        width: 10px;
+        margin-left: 68px;
+    }
+    #ellipse71{
+        margin-top: -955px;
+        width: 10px;
+        margin-left: 95px;
+    }
+    #ellipse74-girl{
+        width: 200px;
+        margin-left: 80px;
+        margin-top: -475px; 
+    }
+    #sell{
+        position: relative;
+        top: 230px;
+        color: #FFFFFF;
+        width: 100%;
+        margin-left: 5px;
+        font-family: Avenir;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 44px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #join{ 
+        position: relative;
+        top: 200px;
+        color: #F2F2F2;
+        width: 100%;
+        margin-left: 3px;
+        font-family: Avenir;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #btnn{
+        /* margin-left: -45px; */
+        position: relative;
+        /* height: 40px; */
+        left: 80px;
+        top: 163px;
+        border-radius: 6px;  
+    }
+    #word{
+        font-size: 1rem;
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        color: #FFFFFF;
+    }
+    #go-to-market{
+        position: relative;
+        height: 27px;
+        margin-left: -215px;
+        width: 201px;
+        left: 106px;
+        top: 220px;
+        border-radius: nullpx;
+        font-family: Avenir;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+    #ooooo{
+        margin-top: -80px;
+        height: 226px; 
+        background: #ffffff;
+        border-radius: 6px;
+        width: 90%;
+        margin-left: 18px;
     }
     #openmarket{
         font-family: Avenir;
@@ -568,106 +755,65 @@ color: #333333;
     }
     #why{
         margin-top: 50px;
-        font-size: 32px;
+        font-size: 2rem;
         text-align: left;
-        margin-left: 10px;
+        margin-left: 11px;
+    }
+    #open-market-brings{
+        margin-left: 10px;      
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        color: #000000;
     }
     #artificial{
-        margin-top: -70px;
+        margin-top: -80px;
         background: #c6ccd4;
         border-radius: 4.3566px;
-        }
-        #imageclass{
-            float: left;
-            margin: 15px;
-            border-radius: 50%;
-            width: 50PX;
-            margin-top: 25px;
-            }
-    #imageclass11{
-        float: left;
-        margin: 15px;
-        border-radius: 50%;
-        width: 50PX;
-        margin-top: 50px;
     }
     #imageclassA{
         float: left;
         margin: 15px;
         border-radius: 50%;
         width: 50PX;
+        margin-top: 30px;
+    }
+    #imageclass11{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
         margin-top: 45px;
-        }
-        #imageclass4{
-            float: left;
-            margin: 15px;
-            border-radius: 50%;
-            width: 50PX;
-            margin-top: 25px;
-            }
-    #textclass{
-        font-family: Avenir;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        letter-spacing: 0em;
-        text-align: left;
-
-    }   
-    #textclass1{
-        font-family: Avenir;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        letter-spacing: 0em;
-        text-align: left;
-        margin-left: 79px;
-
-    } 
-    #textclass2{
-        font-family: Avenir;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        letter-spacing: 0em;
-        text-align: left;
-
-    } 
-    #textclass3{
-        font-family: Avenir;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        letter-spacing: 0em;
-        text-align: left;
-
-    } 
-    #textclass4{
-        font-family: Avenir;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        letter-spacing: 0em;
-        text-align: left;
-
-    }  
-    #open-market-brings{
-        margin-left: 10px;      
-        font-family: Avenir;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 18px;
-        color: #000000;
+    }
+    #imageclass{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 33px;
+    }
+    #imageclass4{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 25px;
+    }
+    #connecting{
+        margin-top: 50px;
+        text-align: center;
+        font-size: 2rem;
+    }
+    #connecting-paragraph{
+        font-size: 1rem;
+        line-height: 36px;
+        text-align: center;
     }
     #safety-heading{
         text-align: center;
         font-weight: 700;
-        font-size: 32px;
+        font-size: 2rem;;
         line-height: 44px;
         margin-top: 60px;
     }
@@ -675,95 +821,22 @@ color: #333333;
         font-family: Avenir;
         font-style: normal;
         text-align: center;
-        font-size: 20px;
+        font-size: 1rem;
         line-height: 36px;
         font-weight: 500;
     }
-#connecting{
-margin-top: 50px;
-text-align: center;
-}
-#connecting-paragraph{
-font-size: 20px;
-line-height: 36px;
-text-align: center;
-}
-#join-community{
-    margin-top: 70px;
-    text-align: center;
+    #join-community{
+        margin-top: 70px;
+        font-size: 2rem;
+        text-align: center;
+        }
+    #connecting-paragraph{
+        font-size: 1rem;
+        line-height: 36px;
+        text-align: center;
     }
     #btnnn{
-        text-align: center;
-        margin-left: 90px;
+        
+        margin-left: 120px;
     }
-#privacy-ps{
-font-family: Avenir;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 19px;
-/* margin-left: 100px; */
-color: #333333;
-/* text-align: center; */
-margin-left: 80px;
-
-} 
-#connect{
-font-family: Avenir;
-font-style: normal;
-font-weight: normal;
-font-size: 40px;
-line-height: 68px;
-color: #333333;
-margin-top: 60px;
-margin-left: 80px;
-}  
-#connect2{
-font-family: Avenir;
-font-style: normal;
-font-weight: normal;
-font-size: 30px;
-margin-left: 100px;
-color: #333333;
-margin-top: -30px;
-margin-left: 83px;
-}   
-#privacy{
-margin-top: 65px;
-font-family: Avenir;
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 27px;
-color: #333333;
-margin-left: 80px;
-} 
-#footer-image{
-    text-align: center;
-    margin-left: 80px;  
-    padding-right: 30px;
-
-    }
-    #footer-image1{
-    padding-right: 25px;
-    margin-left: -10px;
-    }
-    #contact-email{
-    font-family: Avenir;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    margin-left: 100px;
-    margin-left: 80px; 
-    }  
-#copyright{
-        margin-top: 65px; 
-        font-family: Raleway;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 24px;
-        margin-left: 80px;
-        color: #333333;  
-        }               
 }
