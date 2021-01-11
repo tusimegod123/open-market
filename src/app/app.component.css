@@ -512,8 +512,23 @@ color: #333333;
         left: 133px;
         top: 170px;
         border-radius: 6px;
-        padding: 9px, 32px, 9px, 32px;
+       
     }
+    #word{
+        font-size: 1rem;
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        color: #FFFFFF;
+        
+        }
+        #ooooo{
+            margin-top: -90px;
+            height: 626px; 
+            background: red;
+            border-radius: 6px;
+            margin-left: -30px;
+            }
     #go-to-market{
         position: relative;
         height: 27px;
