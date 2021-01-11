@@ -437,6 +437,8 @@ margin-left: 100px;
 color: #333333;  
 }
 
+
+
 @media only screen and (max-width:375px) {
     
     #fluid-one{
@@ -838,5 +840,451 @@ color: #333333;
     #btnnn{
         
         margin-left: 120px;
+    }
+}
+@media only screen and (max-width:320px) {
+    
+    #fluid-one{
+        background: #243853;
+        height: 650px;
+        border-bottom-right-radius: 2050px 200px;
+    }
+    #ellipse7-orange{
+        width: 240px;
+        height: 140px;
+        margin-top: -558px;
+        margin-left: 64px; 
+    }
+    #ellips70{
+        margin-top: -740px;
+        width: 10px;
+        margin-left: 35px;
+    }
+    #ellipse75{
+        margin-top: -875px;
+        width: 10px;
+        margin-left: 28px;
+    }
+    #ellipse71{
+        margin-top: -950px;
+        width: 10px;
+        margin-left: 50px;
+    }
+    #ellipse74-girl{
+        width: 200px;
+        margin-left: 50px;
+        margin-top: -540px; 
+    }
+   
+    #join{ 
+        position: relative;
+        top: 230px;
+        color: #F2F2F2;
+        width: 100%;
+        margin-left: 2px;
+        font-family: Avenir;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #sell{
+        position: relative;
+        top: 260px;
+        color:#FFFFFF;
+        width: 100%;
+        margin-left: 1px;
+        font-family: Avenir;
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 44px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #btnn{
+        margin-left: -45px;
+        position: relative;
+        height: 40px;
+        left: 133px;
+        top: 170px;
+        border-radius: 6px;  
+    }
+    #word{
+        font-size: 1rem;
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        color: #FFFFFF;    
+    }
+    #go-to-market{
+        position: relative;
+        height: 27px;
+        margin-left: -180px;
+        width: 201px;
+        left: 126px;
+        top: 224px;
+        border-radius: nullpx;
+        font-family: Avenir;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+    #ooooo{
+        margin-top: -90px;
+        height: 226px; 
+        background: #ffffff;
+        border-radius: 6px;
+        width: 90%;
+        margin-left: 17px;
+    }
+    #openmarket{
+        margin-top: 30px;
+        font-family: Avenir;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #why-container{
+        background-color:#FFFFFF;
+        margin-top: 100px;  
+    }
+    #why{
+        margin-top: 50px;
+        font-size: 1.8rem;
+        text-align: left;
+        margin-left: 11px;
+    }
+    #open-market-brings{
+        margin-left: 10px;      
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        color: #000000;
+    }
+    #Ellipse-12{
+        margin-left: 50px;
+    }
+    #Ellipse-13{
+        margin-left: 230px;
+    }
+    #Ellipse-14{
+        margin-left: 220px;
+    }
+    #artificial{
+        margin-top: -80px;
+        background: #c6ccd4;
+        border-radius: 4.3566px;
+    }
+    #imageclassA{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 55px;
+    }
+    #imageclass11{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 75px;
+    }
+    #imageclass{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 43px;
+    }
+    #imageclass4{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 35px;
+    }
+    #imageclass1{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 45PX;
+        margin-top: 20px;
+    }
+    #affordable{
+        background: #d0f5ec;
+        height: 83px;
+        border-radius: 4.3566px;
+        }
+    #connecting{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2rem;
+    }
+    #connecting-paragraph{
+    font-size: 1rem;
+    line-height: 36px;
+    text-align: center;
+    }
+    #safety-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;;
+    line-height: 44px;
+    margin-top: 60px;
+    }
+    #safety-paragraph{
+    font-family: Avenir;
+    font-style: normal;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 36px;
+    font-weight: 500;
+    }
+    #join-community{
+        margin-top: 70px;
+        font-size: 2rem;
+        text-align: center;
+        }
+    #connecting-paragraph{
+        font-size: 1rem;
+        line-height: 36px;
+        text-align: center;
+    }
+    #btnnn{
+        
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width:360px) {
+    
+    #fluid-one{
+        background: #243853;
+        height: 650px;
+        border-bottom-right-radius: 2050px 200px;
+    }
+    #ellipse7-orange{
+        width: 240px;
+        height: 140px;
+        margin-top: -558px;
+        margin-left: 104px; 
+    }
+    #ellips70{
+        margin-top: -740px;
+        width: 10px;
+        margin-left: 35px;
+    }
+    #ellipse75{
+        margin-top: -875px;
+        width: 10px;
+        margin-left: 28px;
+    }
+    #ellipse71{
+        margin-top: -950px;
+        width: 10px;
+        margin-left: 50px;
+    }
+    #ellipse74-girl{
+        width: 200px;
+        margin-left: 50px;
+        margin-top: -535px; 
+    }
+   
+    #join{ 
+        position: relative;
+        top: 180px;
+        color: #F2F2F2;
+        width: 100%;
+        margin-left: 2px;
+        font-family: Avenir;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #sell{
+        position: relative;
+        top: 200px;
+        color:#FFFFFF;
+        width: 100%;
+        margin-left: 1px;
+        font-family: Avenir;
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 44px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #btnn{
+        margin-left: -45px;
+        position: relative;
+        height: 40px;
+        left: 133px;
+        top: 130px;
+        border-radius: 6px;  
+    }
+    #word{
+        font-size: 1rem;
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        color: #FFFFFF;    
+    }
+    #go-to-market{
+        position: relative;
+        height: 27px;
+        margin-left: -180px;
+        width: 201px;
+        left: 126px;
+        top: 190px;
+        border-radius: nullpx;
+        font-family: Avenir;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+    #ooooo{
+        margin-top: -90px;
+        height: 226px; 
+        background: #ffffff;
+        border-radius: 6px;
+        width: 90%;
+        margin-left: 17px;
+    }
+    #openmarket{
+        margin-top: 30px;
+        font-family: Avenir;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    #why-container{
+        background-color:#FFFFFF;
+        margin-top: 100px;  
+    }
+    #why{
+        margin-top: 50px;
+        font-size: 1.8rem;
+        text-align: left;
+        margin-left: 11px;
+    }
+    #open-market-brings{
+        margin-left: 10px;      
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        color: #000000;
+    }
+    #Ellipse-12{
+        margin-left: 50px;
+    }
+    #Ellipse-13{
+        margin-left: 230px;
+    }
+    #Ellipse-14{
+        margin-left: 220px;
+    }
+    #artificial{
+        margin-top: -80px;
+        background: #c6ccd4;
+        border-radius: 4.3566px;
+    }
+    #imageclassA{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 55px;
+    }
+    #imageclass11{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 75px;
+    }
+    #imageclass{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 43px;
+    }
+    #imageclass4{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 50PX;
+        margin-top: 35px;
+    }
+    #imageclass1{
+        float: left;
+        margin: 15px;
+        border-radius: 50%;
+        width: 45PX;
+        margin-top: 20px;
+    }
+    #affordable{
+        background: #d0f5ec;
+        height: 83px;
+        border-radius: 4.3566px;
+        }
+    #connecting{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2rem;
+    }
+    #connecting-paragraph{
+    font-size: 1rem;
+    line-height: 36px;
+    text-align: center;
+    }
+    #safety-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;;
+    line-height: 44px;
+    margin-top: 60px;
+    }
+    #safety-paragraph{
+    font-family: Avenir;
+    font-style: normal;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 36px;
+    font-weight: 500;
+    }
+    #join-community{
+        margin-top: 70px;
+        font-size: 2rem;
+        text-align: center;
+        }
+    #connecting-paragraph{
+        font-size: 1rem;
+        line-height: 36px;
+        text-align: center;
+    }
+    #btnnn{
+        
+        margin-left: 100px;
     }
 }
