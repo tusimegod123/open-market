@@ -22,6 +22,12 @@ color: #F2F2F2;
 #nav-link{
 color: #FFFFFF;
 }
+#off{
+    background-color:  #243853;
+    height: 300px;
+    border-radius: 6px;
+    margin-top: 60px;
+}
 .hello{
 padding: 9px 32px;
 height: 40px;
