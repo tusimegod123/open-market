@@ -933,26 +933,30 @@ color: #333333;
         border-bottom-right-radius: 2050px 200px;
         }  
         #sell{
-        margin-top:240px;
-        margin-left: -10px;
-        font-family: Avenir;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 1.4rem;
-        color:#FFFFFF;
-        text-align: center;
-        }
-        #join{
-        /* margin-top: 75px; */
-        /* margin: 20px; */
-        font-family: Avenir;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 20px;
-        line-height: 28.5px;
-        color: #F2F2F2;
-        text-align: center;
-        } 
+            margin-top: 259px;
+            margin-left: 8px;
+            font-family: Avenir;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 44px;
+            letter-spacing: 0em;
+            text-align: center;
+            
+            }
+            #join{
+            /* margin-top: -15px; */
+            margin: 5.5px;
+            padding: 2px;
+            font-family: Avenir;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 27px;
+            letter-spacing: 0em;
+            text-align: center;
+            
+            }
         #ellipse7-orange{
         width: 220px;
         height: 156px;
@@ -965,29 +969,24 @@ color: #333333;
         margin-top: -100px;  
         } 
         #ellips70-or{
-        margin-left:25px;
-        margin-top: -179px;
+        margin-left:65px;
+        margin-top: -185px;
         }
         #ellips75-green{
         margin-left: 55px;
-        
-        margin-top: -55px;
+        margin-top: -35px;
         }
         #ellips71-yellow{
-        margin-left: 20px;
-        
-        margin-top: -20px;
+        margin-left: 80px;
+        margin-top: -10px;
         }
         #btnn{
-        margin-top: -15px;
-        margin-left: 80px;
-        
-        } 
+            margin-top: -63px;
+            margin-left: 70px;
+            }
         #go-to-marke{
-            
             margin-left: 65px;
             margin-top: 10px;
-            
             }  
         #openmarket{
         font-family: Avenir;
@@ -1019,13 +1018,13 @@ color: #333333;
         } 
         #why{
         font-family: Avenir;
-        font-size: 30px;
+        font-size: 25px;
         font-style: normal;
         font-weight: 900;
         line-height: 44px;
         letter-spacing: 0em;
         text-align: left;
-        margin-left: 28px;
+        margin: 40px;
         margin-top: 55px;
         } 
         #open-market-brings{
@@ -1036,7 +1035,7 @@ color: #333333;
         line-height: 36px;
         letter-spacing: 0em;
         text-align: left;
-        margin-left: 28px;
+        margin: 40px;
         
         }  
         #Ellipse-12{
