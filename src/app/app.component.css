@@ -1141,30 +1141,52 @@ color: #333333;
 @media only screen and (min-width:1440px){
 #ellipse7-orange{
 width: 500px;
-margin-left: 200px;
+margin-left: 311px;
 } 
-
+/* #sell{
+    color: red;
+} */
 #ellipse74-girl{
-margin-top: -280px;
-margin-left: 100px; 
+margin-top: -270px;
+margin-left: 170px; 
 }
 #ellips70-or{
-margin-left: 129px;
-margin-top: -390px;
+margin-left: 229px;
+margin-top: -409px;
 }
 #ellips75-green{
-margin-left: 90px;
+margin-left: 170px;
 margin-top: -80px;
 }
 #ellips71-yellow{
-margin-left: 150px;
+margin-left: 250px;
 margin-top: -20px;
 } 
 #desktop{
     margin: auto;
     width: 100%;
-    padding: 10px;
-    margin-left: 120px;
+    /* padding: 10px; */
+    margin-left: 180px;
     
-    }   
+    }
+    #ooooo{
+        margin-top:-150px;
+        height: 526px; 
+        background: #FFFFFF;
+        border-radius: 6px;
+        margin-left: 12%;
+        width: 70%;
+        padding: 10px;
+        } 
+    #openmarket{
+        font-family: Avenir;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 45px;
+        line-height: 55px;
+        text-align: center;
+        margin: 30px;
+        color: #333333;
+        /* margin-left: 100px; */
+        }   
 }
