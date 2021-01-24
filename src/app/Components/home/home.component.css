@@ -1,0 +1,220 @@
+#body{
+background-color: #F2F2F2;
+font-family: Avenir;
+}
+#safety{
+background: #FCCF00; 
+border-radius: 6px;
+}
+#safe{
+margin: 120px;
+}
+#ahaa{
+margin-top: 40px;
+}
+#safety-heading{
+font-family: Avenir;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#safety-paragraph{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+/* margin-left: 120px; */
+margin-top: 20px;
+
+}
+#prev{
+background-color: #ffffff;
+border-radius: 50%;
+color: black;
+
+}
+#next{
+background-color: #ffffff;
+border-radius: 50%;
+color: black;
+
+}
+#btnnn{
+margin-top: 15px;    
+height: 40px;
+width: 147px;
+left: 730px;
+top: 4210px;
+background-color: #584DCD;
+border-radius: 6px;
+padding: 9px, 32px, 9px, 32px;
+}
+#word{
+font-family: Avenir;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #ffffff;
+}
+#nex{
+font-family: Avenir;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: right;
+color: #584DCD;
+margin-left: 277px;
+
+}
+#popular-categories{
+background-color: #ffffff;
+}
+#popular-category{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#popular1{
+
+
+border-radius: 4px;
+
+background: #e2ebf7;
+}
+#popular2{background: #f3e5e3;
+
+}
+#popular3{
+background: #f1edd7;
+
+}
+#popular33{
+background: #e5f7fa;
+
+}
+#popular4{
+background: #e5f7fa;
+
+}
+#popular5{
+background: #f1edd7;
+
+}
+#popular6{
+background: #f3e5e3;
+
+}
+#popular7{
+background:#e2ebf7;
+
+}
+
+
+#inline{
+display: inline-block;
+}
+#popular-headings{
+font-family: Avenir;
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+
+
+}
+#furniture-discount{
+background: #2D9CDB;
+
+}
+#mackbook-deals{
+background-color: black;
+}
+#macbook-heading{
+font-family: Avenir;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+
+}
+#macbook-paragraph{
+font-family: Avenir;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+
+}
+#inline2{
+display: inline-block;
+background-color: black;
+color: #ffffff;
+}
+#furniture-heading{
+font-family: Avenir;
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: 55px;
+letter-spacing: -0.30000001192092896px;
+text-align: center;
+color: #F2F2F2;
+}
+#furniture-paragraph{
+font-family: Avenir;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+
+}
+#btnnnn{
+    /* width: 235px; */
+    height: 40px;
+width: 200px;
+    text-align: center;
+    background: #FCCF00;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 7px, 64px, 7px, 64px;
+    
+}
+#furniture-word{
+font-family: Avenir;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: center;
+color: #333333;
+
+}

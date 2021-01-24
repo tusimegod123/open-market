@@ -1,0 +1,80 @@
+<nav class="uk-navbar-container" uk-navbar id="try">
+
+    <div class="uk-navbar-left">
+      <ul>
+        <li class="uk-active uk-margin-large-left"><a id="open-market" href="/">Open Market</a></li>
+      </ul>
+      <ul class="uk-navbar-nav uk-visible@m">
+
+
+        <li>
+          <a routerLink="/products" routerLinkActive="active" id="nav-link">Products</a>
+
+        </li>
+        <li>
+            <a routerLink="/features" routerLinkActive="active" id="nav-link">Features</a>
+
+        </li>
+        <li>
+            <a routerLink="/faqs" routerLinkActive="active" id="nav-link">FAQs</a>
+
+        </li>
+        <li>
+            <a routerLink="/about" routerLinkActive="active" id="nav-link">About</a>
+
+        </li>
+        <li><a routerLink="/contact" routerLinkActive="active" id="nav-link">Contact</a></li>
+      </ul>
+
+    </div>
+
+    <div class="uk-navbar-right">
+
+      <ul class="uk-navbar-nav uk-visible@m">
+        <li class="uk-active"><a routerLink="/login" routerLinkActive="active"id="login">Login</a></li>
+
+        <li><a routerLink="/signup" routerLinkActive="active"><button class="uk-button uk-button-default uk-margin-large-right" id="signup-button"><span
+                id="word">Sign
+                Up</span></button></a></li>
+      </ul>
+      <div class="uk-hidden@m">
+        <a href="#offcanvas" class="uk-navbar-toggle " uk-toggle="target: #offcanvas-nav" uk-icon="icon: table"></a>
+      </div>
+
+      <!-- <li><a href="#"><span class="uk-margin-large-right" uk-icon="icon: table"></span></a></li>  -->
+
+    </div>
+
+    <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+      <div class="uk-offcanvas-bar" id="off">
+
+        <ul class="uk-nav">
+
+          <li>
+            <a routerLink="/products" routerLinkActive="active" id="nav-link">Products</a>
+
+          </li>
+          <li>
+            <a routerLink="/features" routerLinkActive="active" id="nav-link">Features</a>
+
+          </li>
+          <li>
+            <a routerLink="/faqs" routerLinkActive="active" id="nav-link">FAQs</a>
+
+          </li>
+          <li>
+            <a routerLink="/about" routerLinkActive="active" id="nav-link">About</a>
+
+          </li>
+          <li><a routerLink="/products" routerLinkActive="active" id="nav-link">Contact</a></li>
+          <li class="uk-active"><a routerLink="/login" routerLinkActive="active" id="login">Login</a></li>
+
+          <li><a routerLink="/signup" routerLinkActive="active"><button class="uk-button uk-button-default uk-margin-large-right" id="signup-button"><span
+                  id="word">Sign
+                  Up</span></button></a></li>
+        </ul>
+
+      </div>
+    </div>
+
+  </nav>

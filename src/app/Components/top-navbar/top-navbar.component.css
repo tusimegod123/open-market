@@ -1,0 +1,1193 @@
+#body{
+    background-color: #F2F2F2;
+    font-family: Avenir;
+    }
+    #try{
+    background: #243853;
+    box-shadow: 0px 24px 50px rgba(0, 0, 0, 0.25);   
+    }
+    #desktop{
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+    }
+    #open-market{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 44px;
+    color: #F2F2F2;
+    }
+    #nav-link{
+    color: #FFFFFF;
+    }
+    #off{
+        background-color:  #243853;
+        height: 300px;
+        border-radius: 6px;
+        margin-top: 60px;
+    }
+    .hello{
+    padding: 9px 32px;
+    height: 40px;
+    background: #584DCD;
+    border-radius: 6px;
+    }
+    #login{
+    padding: 10px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    /* font-size: 1rem; */
+    line-height: 22px;
+    color: #FFB55E;
+    }
+    #signup-button{
+    height: 40px;
+    left: 1247px;
+    top: 10px;
+    border-radius: 6px;
+    padding: 9px, 32px, 9px, 32px;
+    background: #584DCD;
+    } 
+    .sub-menu{
+    text-decoration: none;
+    list-style: none;  
+    }
+    #fluid-one{
+    background: #243853;
+    height: 770px;
+    border-bottom-right-radius: 2050px 200px;
+    }
+    #sell{
+    margin-top: 175px;
+    margin-left:70px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2.8rem;
+    line-height: 68px;
+    color: #F2F2F2;
+    
+    }
+    #join{
+    margin: 30px;
+    margin-left: 70px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8rem;
+    line-height: 44px;
+    color: #F2F2F2;
+    /* width: 547px; */
+    height: 132px;
+    }    
+    #ellipse7-orange{
+    margin-left: 115px;
+    }
+    #ellipse74-girl{
+    margin-top: -270px;  
+    }
+    #ellips70-or{
+    margin-left: 29px;
+    margin-top: -390px;
+    }
+    #ellips75-green{
+    margin-left: -10px;
+    margin-top: -80px;
+    }
+    #ellips71-yellow{
+    margin-left: 50px;
+    margin-top: -20px;
+    }
+    #image{
+    border-bottom-right-radius: 200px 200px;
+    }
+    #btnn{
+    margin-left: 70px;
+    background: #584DCD;
+    border-radius: 6px;
+    }
+    #word{
+    font-size: 20px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    }
+    #go-to-market{
+    text-decoration: none;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FFB55E;
+    margin-left: 15px;
+    }
+    #go-to-marke{
+    text-decoration: none;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FFB55E;
+    margin-left: 15px;
+    }
+    #ooooo{
+    margin-top:-140px;
+    height: 526px; 
+    background: #FFFFFF;
+    border-radius: 6px;
+    margin-left: 12%;
+    width: 70%;
+    padding: 10px;
+    }
+    #ooooo1{
+    background-color: #F2F2F2;
+    }
+    #openmarket{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    margin-top: 30px;
+    color: #333333;
+    /* margin-left: 100px; */
+    }
+    .carde{
+    margin: 30px;
+    }
+    .cardee{
+    margin: 30px;
+    }
+    #mixed-yellow{
+    margin-top: -450px;
+    }
+    #ryellow{
+    background-color: #FCCF00;
+    }
+    #cards{
+    width: 197.27px;
+    height: 125.13px;
+    border-radius: 4px;
+    }
+    #why{
+    margin-left: 76px;
+    margin-top: -50px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 61px;
+    color: #000000;
+    }
+    #open-market-brings{
+    margin-left: 76px;      
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+    }
+    #artificial{
+    
+    background: #c6ccd4;
+    border-radius: 4.3566px;
+    }
+    #artificial-heading{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+    }
+    #textclass{
+    font-family: Avenir;
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 5px;
+    }
+    #textclass1{
+    font-family: Avenir;
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 5px;
+    }
+    #textclass2{
+    font-family: Avenir;
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 5px;
+    }
+    #textclass3{
+    font-family: Avenir;
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 5px;
+    }
+    #textclass4{
+    font-family: Avenir;
+    font-size: 0.9em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -5px;
+    padding: 5px;              
+    }
+    #security{
+    background: #d2d1e2;
+    border-radius: 4.3566px;
+    }
+    #quality{
+    background: #ffefdc;
+    border-radius: 4.3566px;
+    }
+    #affordable{
+    background: #d0f5ec;
+    
+    border-radius: 4.3566px;
+    }
+    #pay{
+    background: #fae2db;
+    border-radius: 4.3566px;
+    margin: 1px;
+    }
+    #tryimage{
+    width: 500px;
+    height: 351.38px;
+    margin-top:45px;;
+    }
+    #connecting{
+    font-family: Avenir;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    }
+    #connecting-paragraph{
+    font-family: Avenir;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+    }
+    
+    #why-container{
+    height: fit-content;
+    background-color:#FFFFFF;
+    margin-top: 290px;  
+    }
+    #why{
+    margin-top: 150px;  
+    }
+    #art{
+    margin-top: 50px;
+    }
+    #Ellipse-12{
+    margin-left: 70px;
+    margin-top: 50px;
+    }
+    #Ellipse-13{
+    margin-left: 310px;
+    margin-top: -85px;
+    }
+    #Ellipse-14{
+    margin-left: 250px;
+    margin-top: -130px;
+    }
+    #imageclassA{
+    
+    border-radius: 50%;
+    
+    }
+    #imageclass{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50PX;
+    }
+    #imageclass4{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50px;
+    }
+    #imageclass11{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 50PX;
+    margin-top: 25px;
+    }
+    #imageclass1{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+    width: 45PX;
+    }
+    #safety{
+    background: #FCCF00; 
+    
+    }
+    #safe{
+    margin: 120px;
+    }
+    #ahaa{
+    margin-top: 40px;
+    }
+    #safety-heading{
+    font-family: Avenir;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* margin-left: 120px; */
+    }
+    #safety-paragraph{
+    font-family: Avenir;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* margin-left: 120px; */
+    margin-top: 20px;
+    
+    }
+    #tryimage1{
+    width: 500px;
+    height: 351.38px;
+    margin-top: 60px;
+    }
+    #join-community{
+    font-family: Avenir;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    #signup-paragraph{
+    font-family: Avenir;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    #tryimage2{
+    width: 426px;
+    height: 410px;
+    margin-top: 60px;   
+    }
+    #btnnn{
+    margin-top: 15px;    
+    height: 40px;
+    width: 147px;
+    left: 730px;
+    top: 4210px;
+    background-color: #584DCD;
+    border-radius: 6px;
+    padding: 9px, 32px, 9px, 32px;
+    }
+    #footer{
+    background-color: #c4c4c4; 
+    } 
+    #connect{
+    font-family: Avenir;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 68px;
+    letter-spacing: 0em;
+    }
+    #connect2{
+    font-family: Avenir;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 55px;
+    letter-spacing: 0em;
+    }
+    .social{
+    display: inline-block !important;
+    float: none !important;
+    clear: none !important;
+    margin: 10px;
+    }  
+    #contact-email{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    /* margin-left: 100px;  */
+    }
+    #privacy{
+    /* margin-top: 65px; */
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+    color: #333333;
+    /* margin-left: 100px; */
+    }
+    #privacy-ps{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 49px;
+    /* margin-left: 100px; */
+    color: #333333;
+    }
+    #copyright{
+    /* margin-top: 65px;  */
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* margin-left: 100px; */
+    color: #333333;  
+    }
+    
+    
+    
+    
+    @media only screen and (max-width:414px){
+    #fluid-one{
+    background: #243853;
+    height: 599px;
+    border-bottom-right-radius: 2050px 200px;
+    }  
+    #sell{
+    margin-top: 259px;
+    margin-left: 8px;
+    font-family: Avenir;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #join{
+    /* margin-top: -15px; */
+    margin: 5.5px;
+    padding: 2px;
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    } 
+    #ellipse7-orange{
+    width: 280px;
+    height: 156px;
+    margin-top:-575px;
+    margin-left: 133px;
+    }
+    #ellipse74-girl{
+    width: 189px;
+    margin-left: 100px;
+    margin-top: -120px;  
+    } 
+    #ellips70-or{
+    margin-left:105px;
+    margin-top: -185px;
+    width: 13px;
+    }
+    #ellips75-green{
+    margin-left: 85px;
+    margin-top: -35px;
+    width: 9px;
+    }
+    #ellips71-yellow{
+    margin-left: 110px;
+    width: 7px;
+    margin-top: -10px;
+    }
+    #btnn{
+    margin-top: -65px;
+    margin-left: 109px;
+    } 
+    #go-to-marke{
+    text-decoration: none;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FFB55E;
+    margin-left: 110px;
+    margin-top: -90px;
+    
+    }  
+    #openmarket{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 0.7rem;
+    line-height: 18px;
+    text-align: center;
+    margin-top: auto;
+    
+    color: #333333; 
+    
+    }
+    #ooooo{
+    margin-top: -68px;
+    height: 150px;
+    
+    }
+    #desktop{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    
+    } 
+    #why-container{
+    height: fit-content;
+    background-color:#FFFFFF;
+    margin-top: 130px;  
+    } 
+    #why{
+    font-family: Avenir;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 48px;
+    margin-top: 55px;
+    } 
+    #open-market-brings{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 45px;
+    
+    }  
+    #Ellipse-12{
+    margin-left: 50px;
+    /* margin-left: 70px; */
+    margin-top: 50px;
+    }
+    #Ellipse-13{
+    margin-left: 250px;
+    margin-top: -85px;
+    }
+    #Ellipse-14{
+    margin-left: 210px;
+    margin-top: -110px;
+    } 
+    #artificial{
+    margin-left: -20p;
+    margin-top: 200px;
+    width: 100%;
+    height: fit-content;
+    background: #c6ccd4;
+    border-radius: 4.3566px;
+    } 
+    
+    #connecting-image{
+    width: 280px;
+    margin-left: 35px;
+    }
+    #connecting{
+    /* margin-left: 25px; */
+    margin-top: -90px;
+    font-family: Avenir;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    #connecting-paragraph{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 35px;
+    }
+    #safety-heading{
+    font-family: Avenir;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #safety-paragraph{
+    margin: 25px;
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #safety-image{
+    width: 250px;
+    margin-left: 75px;
+    margin-top: -90px;
+    }
+    #footer{
+    background: #E0E0E0; 
+    margin-top: -10px;
+    text-align: center;
+    } 
+    #privacy{
+    /* margin-top: 65px; */
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+    color: #333333;
+    /* margin-left: 100px; */
+    }
+    #privacy-ps{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 49px;
+    /* margin-left: 100px; */
+    color: #333333;
+    }  
+    }
+    
+    @media only screen and (max-width:375px){
+    #fluid-one{
+    background: #243853;
+    height: 599px;
+    border-bottom-right-radius: 2050px 200px;
+    }  
+    #sell{
+    margin-top: 259px;
+    margin-left: 8px;
+    font-family: Avenir;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #join{
+    /* margin-top: -15px; */
+    margin: 5.5px;
+    padding: 2px;
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    } 
+    #ellipse7-orange{
+    width: 280px;
+    height: 156px;
+    margin-top:-561px;
+    margin-left: 95px;
+    }
+    #ellipse74-girl{
+    width: 189px;
+    margin-left: 80px;
+    margin-top: -120px;  
+    } 
+    #ellips70-or{
+    margin-left:70px;
+    margin-top: -175px;
+    width: 13px;
+    }
+    #ellips75-green{
+    margin-left: 50px;
+    margin-top: -39px;
+    width: 9px;
+    }
+    #ellips71-yellow{
+    margin-left: 80px;
+    width: 7px;
+    margin-top: -10px;
+    }
+    #btnn{
+    margin-top: -65px;
+    margin-left: 100px;
+    } 
+    #go-to-marke{
+    text-decoration: none;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FFB55E;
+    margin-left: 100px;
+    margin-top: -90px;
+    
+    }   
+    #openmarket{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 0.7rem;
+    line-height: 18px;
+    text-align: center;
+    margin-top: auto;
+    
+    color: #333333; 
+    
+    }
+    #ooooo{
+    margin-top: -68px;
+    height: 150px;
+    
+    }
+    #desktop{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    
+    } 
+    #why-container{
+    height: fit-content;
+    background-color:#FFFFFF;
+    margin-top: 130px;  
+    } 
+    #why{
+    font-family: Avenir;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 40px;
+    margin-top: 50px;
+    } 
+    #open-market-brings{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 40px;
+    
+    }  
+    #Ellipse-12{
+    margin-left: 50px;
+    /* margin-left: 70px; */
+    margin-top: 50px;
+    }
+    #Ellipse-13{
+    margin-left: 250px;
+    margin-top: -85px;
+    }
+    #Ellipse-14{
+    margin-left: 210px;
+    margin-top: -110px;
+    } 
+    #artificial{
+    margin-left: -20p;
+    margin-top: 200px;
+    width: 100%;
+    height: fit-content;
+    background: #c6ccd4;
+    border-radius: 4.3566px;
+    } 
+    
+    #connecting-image{
+    width: 260px;
+    margin-left: 28px;
+    }
+    #connecting{
+    /* margin-left: 25px; */
+    margin-top: -90px;
+    font-family: Avenir;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    #connecting-paragraph{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 35px;
+    
+    }
+    #safety-heading{
+    font-family: Avenir;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    /* margin-right: 120px; */
+    }
+    #safety-paragraph{
+    margin: 25px;
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #safety-image{
+    width: 250px;
+    margin-left: 65px;
+    margin-top: -90px;
+    }
+    #footer{
+    background-color: #c4c4c4; 
+    margin-top: -10px;
+    text-align: center;
+    } 
+    #privacy{
+    /* margin-top: 65px; */
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+    color: #333333;
+    /* margin-left: 100px; */
+    }
+    #privacy-ps{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 49px;
+    /* margin-left: 100px; */
+    color: #333333;
+    }  
+    }
+    @media only screen and (max-width:320px){
+    #fluid-one{
+    background: #243853;
+    height: 629px;
+    border-bottom-right-radius: 2050px 200px;
+    }  
+    #sell{
+    margin-top: 259px;
+    margin-left: 8px;
+    font-family: Avenir;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #join{
+    /* margin-top: -15px; */
+    margin: 5.5px;
+    padding: 2px;
+    font-family: Avenir;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    #ellipse7-orange{
+    width: 220px;
+    height: 156px;
+    margin-top:-592px;
+    margin-left: 99px;
+    }
+    #ellipse74-girl{
+    width: 180px;
+    margin-left: 40px;
+    margin-top: -100px;  
+    } 
+    #ellips70-or{
+    margin-left:65px;
+    margin-top: -185px;
+    }
+    #ellips75-green{
+    margin-left: 55px;
+    margin-top: -35px;
+    }
+    #ellips71-yellow{
+    margin-left: 80px;
+    margin-top: -10px;
+    }
+    #btnn{
+    margin-top: -63px;
+    margin-left: 70px;
+    }
+    #go-to-marke{
+    margin-left: 65px;
+    margin-top: 10px;
+    }  
+    #openmarket{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 0.7rem;
+    line-height: 18px;
+    text-align: center;
+    margin-top: auto;
+    
+    color: #333333; 
+    
+    }
+    #ooooo{
+    margin-top: -68px;
+    height: 150px;
+    
+    }
+    #desktop{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    
+    } 
+    #why-container{
+    height: fit-content;
+    background-color:#FFFFFF;
+    margin-top: 70px;  
+    } 
+    #why{
+    font-family: Avenir;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 40px;
+    margin-top: 55px;
+    } 
+    #open-market-brings{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 40px;
+    
+    }  
+    #Ellipse-12{
+    margin-left: 50px;
+    /* margin-left: 70px; */
+    margin-top: 50px;
+    }
+    #Ellipse-13{
+    margin-left: 250px;
+    margin-top: -85px;
+    }
+    #Ellipse-14{
+    margin-left: 230px;
+    margin-top: -120px;
+    } 
+    #artificial{
+    margin-left: -10p;
+    margin-top: 200px;
+    width: 100%;
+    height: fit-content;
+    background: #c6ccd4;
+    border-radius: 4.3566px;
+    } 
+    #connecting-image{
+    width: 250px;
+    margin-left: 18px;
+    }
+    #connecting{
+    /* margin-left: 25px; */
+    margin-top: -90px;
+    font-family: Avenir;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    #connecting-paragraph{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 5px;
+    }
+    #safety-heading{
+    font-family: Avenir;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    #safety-paragraph{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    #safety-image{
+    width: 250px;
+    margin-left: 30px;
+    margin-top: -90px;
+    }
+    #footer{
+    background-color: #c4c4c4; 
+    margin-top: -10px;
+    text-align: center;
+    } 
+    #privacy{
+    /* margin-top: 65px; */
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+    color: #333333;
+    /* margin-left: 100px; */
+    }
+    #privacy-ps{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 49px;
+    /* margin-left: 100px; */
+    color: #333333;
+    }     
+    }
+    @media only screen and (min-width:1440px){
+    #ellipse7-orange{
+    width: 500px;
+    margin-left: 311px;
+    } 
+    /* #sell{
+        color: red;
+    } */
+    #ellipse74-girl{
+    margin-top: -270px;
+    margin-left: 170px; 
+    }
+    #ellips70-or{
+    margin-left: 229px;
+    margin-top: -409px;
+    }
+    #ellips75-green{
+    margin-left: 170px;
+    margin-top: -80px;
+    }
+    #ellips71-yellow{
+    margin-left: 250px;
+    margin-top: -20px;
+    } 
+    #desktop{
+        margin: auto;
+        width: 100%;
+        /* padding: 10px; */
+        margin-left: 180px;
+        
+        }
+        #ooooo{
+            margin-top:-150px;
+            height: 526px; 
+            background: #FFFFFF;
+            border-radius: 6px;
+            margin-left: 12%;
+            width: 70%;
+            padding: 10px;
+            } 
+        #openmarket{
+            font-family: Avenir;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 45px;
+            line-height: 55px;
+            text-align: center;
+            margin: 30px;
+            color: #333333;
+            /* margin-left: 100px; */
+            }   
+    }
+    
