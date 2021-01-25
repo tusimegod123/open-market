@@ -78,6 +78,11 @@ color: #584DCD;
 margin-left: 277px;
 
 }
+#see-all{
+    color: #584DCD;
+
+    margin-left: 1320px;
+}
 #popular-categories{
 background-color: #ffffff;
 }
@@ -130,6 +135,16 @@ background:#e2ebf7;
 #inline{
 display: inline-block;
 }
+.featured-products{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
 #popular-headings{
 font-family: Avenir;
 font-size: 16px;
@@ -158,6 +173,7 @@ line-height: 44px;
 letter-spacing: -0.30000001192092896px;
 text-align: left;
 color: #F2F2F2;
+margin-top: -20px;
 
 }
 #macbook-paragraph{
@@ -184,6 +200,7 @@ line-height: 55px;
 letter-spacing: -0.30000001192092896px;
 text-align: center;
 color: #F2F2F2;
+
 }
 #furniture-paragraph{
 font-family: Avenir;
@@ -194,7 +211,7 @@ line-height: 27px;
 letter-spacing: -0.30000001192092896px;
 text-align: left;
 color: #F2F2F2;
-
+padding: 10px;
 }
 #btnnnn{
     /* width: 235px; */
@@ -216,5 +233,48 @@ line-height: 44px;
 letter-spacing: -0.30000001192092896px;
 text-align: center;
 color: #333333;
+}
+#chair{
+    margin-top: 80px;
+}
+#inline-menn{
+font-family: Avenir;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+/* margin-top: 20px; */
+
+
+}
+#featured-money{
+    font-family: Avenir;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #EB5757;
+    
+}
+#cart{
+    margin-top: -35px;
+    margin-left: 125px;
+    background: #DADADA;
+
+}
+#cart2{
+    margin-top: -35px;
+    margin-left: 150px;
+    background: #DADADA;
+
+}
+#heart{
+    margin-top: -35px;
+    margin-left: 30px;
+    
 
 }
