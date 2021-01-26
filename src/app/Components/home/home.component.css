@@ -80,13 +80,11 @@ margin-left: 277px;
 }
 #see-all1{
     color: #584DCD;
-
-    margin-left: 1319px;
+    margin-left: 1280px;
 }
 #see-all{
     color: #584DCD;
-
-    margin-left: 1340px;
+    margin-left: 1300px;
 }
 
 #popular-categories{
@@ -264,28 +262,9 @@ text-align: left;
     color: #EB5757;
     
 }
-#cart{
-    margin-top: -35px;
-    margin-left: 170px;
-    background: #DADADA;
-
-}
-#cart2{
-    margin-top: -35px;
-    margin-left: 190px;
-    background: #DADADA;
-}
-#heart{
-    margin-top: -35px;
-    margin-left: 27px;
-}
-#heart2{
-    margin-top: -35px;
-    margin-left: 27px;
-}
 #cart-mens-leather{
     margin-top: -35px;
-    margin-left: 185px;
+    margin-left: 175px;
 }
 #heart-mens-leather{
     margin-top: -35px;
@@ -293,7 +272,7 @@ text-align: left;
 }
 #cart-shoes{
     margin-top: -35px;
-    margin-left: 210px;
+    margin-left: 200px;
 }
 #heart-shoes{
     margin-top: -35px;
@@ -301,7 +280,7 @@ text-align: left;
 }
 #cart-watch{
     margin-top: -35px;
-    margin-left: 190px;
+    margin-left: 180px;
 }
 #heart-watch{
     margin-top: -35px;
@@ -309,7 +288,7 @@ text-align: left;
 }
 #cart-chair{
     margin-top: -35px;
-    margin-left: 210px;
+    margin-left: 200px;
 }
 #heart-chair{
     margin-top: -35px;
