@@ -81,13 +81,14 @@ margin-left: 277px;
 #see-all1{
     color: #584DCD;
 
-    margin-left: 1329px;
+    margin-left: 1319px;
 }
 #see-all{
     color: #584DCD;
 
-    margin-left: 1350px;
+    margin-left: 1340px;
 }
+
 #popular-categories{
 background-color: #ffffff;
 }
@@ -136,7 +137,7 @@ background:#e2ebf7;
 
 }
 #overlay{
-    height: 5px;
+    height: 3px;
     
 }
 #overlay-paragraph{
@@ -210,27 +211,8 @@ display: inline-block;
 background-color: black;
 color: #ffffff;
 }
-#furniture-heading{
-font-family: Avenir;
-font-size: 40px;
-font-style: normal;
-font-weight: 900;
-line-height: 55px;
-letter-spacing: -0.30000001192092896px;
-text-align: center;
-color: #F2F2F2;
-
-}
-#furniture-paragraph{
-font-family: Avenir;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: -0.30000001192092896px;
-text-align: left;
-color: #F2F2F2;
-padding: 10px;
+#mac-div{
+    margin-left: 10px;
 }
 #btnnnn{
     /* width: 235px; */
@@ -292,17 +274,48 @@ text-align: left;
     margin-top: -35px;
     margin-left: 190px;
     background: #DADADA;
-
 }
 #heart{
     margin-top: -35px;
-    margin-left: 47px;
-    
-
+    margin-left: 27px;
 }
 #heart2{
     margin-top: -35px;
     margin-left: 27px;
-    
+}
+#cart-mens-leather{
+    margin-top: -35px;
+    margin-left: 185px;
+}
+#heart-mens-leather{
+    margin-top: -35px;
+    margin-left: 27px;
+}
+#cart-shoes{
+    margin-top: -35px;
+    margin-left: 210px;
+}
+#heart-shoes{
+    margin-top: -35px;
+    margin-left: 27px;
+}
+#cart-watch{
+    margin-top: -35px;
+    margin-left: 190px;
+}
+#heart-watch{
+    margin-top: -35px;
+    margin-left: 25px;
+}
+#cart-chair{
+    margin-top: -35px;
+    margin-left: 210px;
+}
+#heart-chair{
+    margin-top: -35px;
+    margin-left: 27px;
+}
+
+@media only screen and (min-width:1280px){
 
 }
