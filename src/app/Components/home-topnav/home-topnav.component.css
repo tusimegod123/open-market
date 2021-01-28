@@ -57,9 +57,9 @@ color: #333333;
 
 }
 @media only screen and (max-width:1280px){
-#nav{
+/* #nav{
 background-color: red;
-}
+} */
 #search{
 width: 260px;
 margin-left:-47px;
@@ -117,7 +117,7 @@ color: #333333;
         } */
 
 #search{
-    width: 420px;
+    width: 550px;
     margin-left:-37px;
     /* top: 28px; */
     background: #BDBDBD;
@@ -126,7 +126,7 @@ color: #333333;
     opacity: 80%;
     }
     #side-navi{
-    margin-left: 10px;
+    margin-left: -60px;
     }
     #words{
     font-family: Avenir;

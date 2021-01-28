@@ -9,6 +9,17 @@ border-radius: 6px;
 #safe{
 margin: 120px;
 }
+#popular-images{
+    margin: auto;
+    padding: 10px;
+}
+#phoness{
+    width: 450px;
+    margin-left: -40px;
+}
+#power-bank{
+    margin-left: 200px;
+}
 #ahaa{
 margin-top: 40px;
 }
@@ -149,10 +160,22 @@ text-align: right;
 
     
 }
-
+#mac-image{
+    float: left;
+    margin-left: 130px;
+    padding: 10px;
+}
+#mac-div{
+    float: right;
+    margin-left: 10px;
+}
 #inline{
 display: inline-block;
 }
+#inline-men-shoes{
+    float: left;
+}
+#inline-men-shirt{}
 .featured-products{
 font-family: Avenir;
 font-size: 24px;
@@ -191,8 +214,7 @@ line-height: 44px;
 letter-spacing: -0.30000001192092896px;
 text-align: left;
 color: #F2F2F2;
-margin-top: -20px;
-
+margin-top: 80px;
 }
 #macbook-paragraph{
 font-family: Avenir;
@@ -209,9 +231,9 @@ display: inline-block;
 background-color: black;
 color: #ffffff;
 }
-#mac-div{
+/* #mac-div{
     margin-left: 10px;
-}
+} */
 #btnnnn{
     /* width: 235px; */
     height: 40px;
@@ -248,8 +270,6 @@ line-height: 19px;
 letter-spacing: 0em;
 text-align: left;
 /* margin-top: 20px; */
-
-
 }
 #featured-money{
     font-family: Avenir;
@@ -296,5 +316,220 @@ text-align: left;
 }
 
 @media only screen and (min-width:1280px){
+#phones{
+    /* margin-right: 140px; */
+}
+#phoness{
+    width: 250px;
+    margin-left: -40px;
+}
+#power-bank{
+    margin-left: 100px;
+}
+#see-all1{
+    color: #584DCD;
+    margin-left: 1110px;
+}
+#see-all{
+    color: #584DCD;
+    margin-left: 1110px;
+}
+#cart-mens-leather{
+    margin-top: -55px;
+    margin-left: 195px;
+}
+#heart-mens-leather{
+    margin-top: -55px;
+    margin-left: 30px;
+}
+#cart-shoes{
+    margin-top: -55px;
+    margin-left: 190px;
+}
+#heart-shoes{
+    margin-top: -55px;
+    margin-left: 40px;
+}
+#cart-watch{
+    margin-top: -55px;
+    margin-left: 195px;
+}
+#heart-watch{
+    margin-top: -55px;
+    margin-left: 35px;
+}
+#cart-chair{
+    margin-top: -55px;
+    margin-left: 195px;
+}
+#heart-chair{
+    margin-top: -55px;
+    margin-left: 35px;
+}
+#macbook-heading{
+    
+    margin-top: 30px;
+    }
+#mac-image{
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    /* padding: 10px; */
+}
 
+    #inline-men{
+        float: right;
+        margin-left: 80px;
+        margin-top: -170px;
+       
+    }
+    #popular2{
+        width: 400px;   
+
+    }
+#mac-div{
+    float: right;
+    margin-top: -60px;
+    
+}
+#inline-men-shoes{
+    float: left;
+}
+#inline-men-shirt{
+    float: inherit;
+}
+}
+
+@media only screen and (min-width:1440px){
+    #phoness{
+        width: 330px;
+        margin-left: -40px;
+    }
+    #power-bank{
+        
+        margin-left: 120px;
+    }
+    #see-all1{
+        color: #584DCD;
+        margin-left: 1080px;
+    }
+    #see-all{
+        color: #584DCD;
+        margin-left: 1100px;
+    }
+    #cart-mens-leather{
+        margin-top: -55px;
+        margin-left: 225px;
+    }
+    #heart-mens-leather{
+        margin-top: -55px;
+        margin-left: 37px;
+    }
+    #cart-shoes{
+        margin-top: -55px;
+        margin-left: 225px;
+    }
+    #heart-shoes{
+        margin-top: -55px;
+        margin-left: 40px;
+    }
+    #cart-watch{
+        margin-top: -55px;
+        margin-left: 227px;
+    }
+    #heart-watch{
+        margin-top: -55px;
+        margin-left: 40px;
+    }
+    #cart-chair{
+        margin-top: -55px;
+        margin-left: 225px;
+    }
+    #heart-chair{
+        margin-top: -55px;
+        margin-left: 40px;
+    }
+    #macbook-heading{
+    
+        margin-top: 60px;
+        }
+    #mac-image{
+        float: left;
+        margin-left: 70px;
+        margin-top: 50px;
+        /* padding: 10px; */
+    }
+    #mac-div{
+        float: right;
+        margin-top: -60px;
+        
+    }
+    
+}
+
+@media only screen and (min-width:1600px){
+    #phoness{
+        width: 350px;
+        margin-left: -40px;
+        /* background-color: blueviolet; */
+    } 
+    #power-bank{
+        margin-left: 150px;
+    }
+    #see-all1{
+        color: #584DCD;
+        margin-left: 1310px;
+    }
+    #see-all{
+        color: #584DCD;
+        margin-left: 1335px;
+    }
+    #cart-mens-leather{
+        margin-top: -35px;
+        margin-left: 180px;
+    }
+    #heart-mens-leather{
+        margin-top: -35px;
+        margin-left: 27px;
+    }
+    #cart-shoes{
+        margin-top: -35px;
+        margin-left: 199px;
+    }
+    #heart-shoes{
+        margin-top: -35px;
+        margin-left: 35px;
+    }
+    #cart-watch{
+        margin-top: -35px;
+        margin-left: 185px;
+    }
+    #heart-watch{
+        margin-top: -35px;
+        margin-left: 23px;
+    }
+    #cart-chair{
+        margin-top: -35px;
+        margin-left: 195px;
+    }
+    #heart-chair{
+        margin-top: -35px;
+        margin-left: 40px;
+    }
+    #macbook-heading{
+        margin-top: 60px;
+        margin-left: 70px;
+        }
+    #mac-image{
+        float: left;
+        margin-left: 90px;
+        margin-top: 50px;
+        /* padding: 10px; */
+    }
+    #mac-div{
+        float: right;
+        margin-top: -60px;
+        margin-left: 70px;
+        
+    }
 }
