@@ -55,7 +55,6 @@
     "tslint": "~6.1.0",
     "typescript": "~4.0.2",
     "postcss:build": "postcss src/styles.pcss -o src/styles.css",
-  	"prestart": "npm run postcss:build",
   	"prebuild": "npm run postcss:build -- --env=production"
   },
   "engines": {
