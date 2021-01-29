@@ -57,6 +57,10 @@
     "postcss:build": "postcss src/styles.pcss -o src/styles.css",
   	"prestart": "npm run postcss:build",
   	"prebuild": "npm run postcss:build -- --env=production"
+  },
+  "engines": {
+    "node": "stable",
+    "npm": "6.14.18"
   }
   
 }
