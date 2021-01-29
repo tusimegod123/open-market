@@ -21,6 +21,7 @@
     }
     #nav-link{
     color: #FFFFFF;
+    text-transform: capitalize;
     }
     #off{
         background-color:  #243853;
@@ -35,6 +36,7 @@
     border-radius: 6px;
     }
     #login{
+    text-transform: capitalize;
     padding: 10px;
     font-family: Avenir;
     font-style: normal;
