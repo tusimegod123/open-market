@@ -6,6 +6,9 @@ font-family: Avenir;
 background: #FCCF00; 
 border-radius: 6px;
 }
+#previcon{
+    margin: 6px;
+}
 #safe{
 margin: 120px;
 }
