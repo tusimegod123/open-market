@@ -50,12 +50,11 @@
     "postcss-loader": "^4.1.0",
     "postcss-scss": "^3.0.4",
     "protractor": "~7.0.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+    
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~4.0.2",
-    "postcss:build": "postcss src/styles.pcss -o src/styles.css",
-  	"prebuild": "npm run postcss:build -- --env=production"
+    "typescript": "~4.0.2"
+    
   },
   "engines": {
     "node": "6.11.0",
