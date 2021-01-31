@@ -2,6 +2,9 @@
 background-color: #F2F2F2;
 font-family: Avenir;
 }
+#fu{
+    width: 95%;
+}
 #safety{
 background: #FCCF00; 
 border-radius: 6px;
@@ -99,9 +102,9 @@ color: #584DCD;
 margin-left: 1290px;
 }
 #see-all{
-    color: #584DCD;
-    margin-left: 1290px;
-    }
+color: #584DCD;
+margin-left: 1290px;
+}
 #see-all-inline{
 display: inline;
 margin: 6px;
@@ -228,9 +231,7 @@ display: inline-block;
 background-color: black;
 color: #ffffff;
 }
-/* #mac-div{
-margin-left: 10px;
-} */
+
 #btnnnn{
 /* width: 235px; */
 height: 40px;
@@ -297,28 +298,126 @@ margin-top: -30px;
 margin-left: 27px;
 }
 
+@media only screen and (max-width: 414px){
 
+#see-all{
+color: #584DCD;
+margin-left: 908px;
+}
+#headsets{
+width: 350px;
+}
+#phoness{
+width: 200px;
+
+}
+/* #power-bank{
+margin-left: -100px;
+background-color: red;
+}  */
+    
+.cart-mens-leather{
+margin-top: -45px;
+margin-left: 167px;
+}
+.heart-mens-leather{
+margin-top: -40px;
+margin-left: 30px;
+}
+.cart-mens-leather2{
+margin-top: -45px;
+margin-left: 146px;
+}
+.heart-mens-leather2{
+margin-top: -40px;
+margin-left: 30px;
+}
+
+#mac-image-phone{
+width: 250px;
+margin-left: -120px;
+padding: 10px;
+margin-top: -20px;
+}
+
+ /* #macbook-heading{
+font-family: Avenir;
+font-size: 22px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+margin-top: -43px;
+margin-left: 180px;
+
+} 
+#macbook-paragraph{
+font-family: Avenir;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+margin-left: 180px;
+margin-top: -60px;
+}  */
+#safety-heading{
+font-family: Avenir;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10px;
+}
+
+
+.featured-products{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+margin: 10px;
+}
+#headsets{
+width: 350px;
+}
+#phoness{
+width: 300px;
+margin-left: -60px;
+}
+#power-bank{
+margin-left: 90px;
+}    
+}
 @media only screen  and (min-width:1280px){
 #see-all1{
 color: #584DCD;
 margin-left: 890px;
 }
 #see-all{
-    color: #584DCD;
-    margin-left: 908px;
-    }
-    #headsets{
-        width: 350px;
-        }
-        #phoness{
-        width: 200px;
-        
-        }
-        /* #power-bank{
-        margin-left: -100px;
-        background-color: red;
-        }  */
-          
+color: #584DCD;
+margin-left: 908px;
+}
+#headsets{
+width: 350px;
+}
+#phoness{
+width: 200px;
+
+}
+/* #power-bank{
+margin-left: -100px;
+background-color: red;
+}  */
+
 .cart-mens-leather{
 margin-top: -65px;
 margin-left: 185px;
@@ -366,7 +465,7 @@ text-align: left;
 color: #F2F2F2;
 margin-top: 30px;
 }
-}
+
 .featured-products{
 font-family: Avenir;
 font-size: 24px;
@@ -378,96 +477,96 @@ text-align: left;
 margin: 10px;
 }
 #headsets{
-    width: 350px;
-    }
-    #phoness{
-    width: 300px;
-    margin-left: -60px;
-    }
-    #power-bank{
-    margin-left: 90px;
-    } 
-    
+width: 350px;
+}
+#phoness{
+width: 300px;
+margin-left: -60px;
+}
+#power-bank{
+margin-left: 90px;
+} 
+} 
 
 @media only screen and (min-width:1440px){
-    #see-all1{
-    color: #584DCD;
-    margin-left: 1050px;
-    }
-    #see-all{
-        color: #584DCD;
-        margin-left: 1265px;
-        }
-    .cart-mens-leather{
-    margin-top: -45px;
-    margin-left: 145px;
-    }
-    .heart-mens-leather{
-    margin-top: -40px;
-    margin-left: 27px;
-    }
-    .cart-mens-leather2{
-    margin-top: -45px;
-    margin-left: 120px;
-    }
-    .heart-mens-leather2{
-    margin-top: -40px;
-    margin-left: 27px;
-    }
-    #mac-image{
-    float: left;
-    margin-left: 95px;
-    padding: 10px;
-    margin-top: 30px;
-    }
-    #mac-div{
-    float: right;
-    margin-left: 10px;
-    }
-    #safety-heading{
-    font-family: Avenir;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 44px;
-    letter-spacing: 0em;
-    text-align: left;
-    margin-top: 10px;
-    }
-    #macbook-heading{
-    font-family: Avenir;
-    font-size: 32px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 44px;
-    letter-spacing: -0.30000001192092896px;
-    text-align: left;
-    color: #F2F2F2;
-    margin-top: 40px;
-    margin-left: 30px;
-    }
-    
-    .featured-products{
-    font-family: Avenir;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 33px;
-    letter-spacing: 0em;
-    text-align: left;
-    margin: 10px;
-    }
-    #headsets{
-    width: 350px;
-    }
-    #phoness{
-    width: 300px;
-    margin-left: -60px;
-    }
-    #power-bank{
-    margin-left: 190px;
-    } 
-    }
+#see-all1{
+color: #584DCD;
+margin-left: 1050px;
+}
+#see-all{
+color: #584DCD;
+margin-left: 1265px;
+}
+.cart-mens-leather{
+margin-top: -45px;
+margin-left: 145px;
+}
+.heart-mens-leather{
+margin-top: -40px;
+margin-left: 27px;
+}
+.cart-mens-leather2{
+margin-top: -45px;
+margin-left: 120px;
+}
+.heart-mens-leather2{
+margin-top: -40px;
+margin-left: 27px;
+}
+#mac-image{
+float: left;
+margin-left: 95px;
+padding: 10px;
+margin-top: 30px;
+}
+#mac-div{
+float: right;
+margin-left: 10px;
+}
+#safety-heading{
+font-family: Avenir;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10px;
+}
+#macbook-heading{
+font-family: Avenir;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+margin-top: 40px;
+margin-left: 30px;
+}
+
+.featured-products{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+margin: 10px;
+}
+#headsets{
+width: 350px;
+}
+#phoness{
+width: 300px;
+margin-left: -60px;
+}
+#power-bank{
+margin-left: 190px;
+} 
+}
 
 @media only screen and (min-width:1600px){
 #see-all1{
@@ -475,9 +574,9 @@ color: #584DCD;
 margin-left: 1225px;
 }
 #see-all{
-    color: #584DCD;
-    margin-left: 1240px;
-    }
+color: #584DCD;
+margin-left: 1240px;
+}
 .cart-mens-leather{
 margin-top: -45px;
 margin-left: 175px;
@@ -549,160 +648,160 @@ margin-left: 190px;
 } 
 }
 @media only screen and (min-width:1650px){
-    #see-all1{
-    color: #584DCD;
-    margin-left: 1270px;
-    }
-    #see-all{
-        color: #584DCD;
-        margin-left: 1294px;
-        }
-    .cart-mens-leather{
-    margin-top: -45px;
-    margin-left: 185px;
-    }
-    .heart-mens-leather{
-    margin-top: -40px;
-    margin-left: 36px;
-    }
-    .cart-mens-leather2{
-    margin-top: -45px;
-    margin-left: 170px;
-    }
-    .heart-mens-leather2{
-    margin-top: -40px;
-    margin-left: 31px;
-    }
-    #mac-image{
-    float: left;
-    margin-left: 95px;
-    padding: 10px;
-    margin-top: 50px;
-    }
-    #mac-div{
-    float: right;
-    margin-left: 10px;
-    }
-    #safety-heading{
-    font-family: Avenir;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 44px;
-    letter-spacing: 0em;
-    text-align: left;
-    margin-top: 10px;
-    }
-    #macbook-heading{
-    font-family: Avenir;
-    font-size: 32px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 44px;
-    letter-spacing: -0.30000001192092896px;
-    text-align: left;
-    color: #F2F2F2;
-    margin-top: 60px;
-    margin-left: 30px;
-    }
-    }
-    .featured-products{
-    font-family: Avenir;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 33px;
-    letter-spacing: 0em;
-    text-align: left;
-    margin: 10px;
-    }
-    #headsets{
-    width: 350px;
-    }
-    #phoness{
-    width: 300px;
-    margin-left: -60px;
-    }
-    #power-bank{
-    margin-left: 190px;
-    }  
-    @media only screen and (min-width:1700px){
-        #see-all1{
-        color: #584DCD;
-        margin-left: 1325px;
-        }
-        #see-all{
-            color: #584DCD;
-            margin-left: 1344px;
-            }
-        .cart-mens-leather{
-        margin-top: -45px;
-        margin-left: 196px;
-        }
-        .heart-mens-leather{
-        margin-top: -40px;
-        margin-left: 44px;
-        }
-        .cart-mens-leather2{
-        margin-top: -45px;
-        margin-left: 185px;
-        }
-        .heart-mens-leather2{
-        margin-top: -40px;
-        margin-left: 30px;
-        }
-        #mac-image{
-        float: left;
-        margin-left: 95px;
-        padding: 10px;
-        margin-top: 50px;
-        }
-        #mac-div{
-        float: right;
-        margin-left: 10px;
-        }
-        #safety-heading{
-        font-family: Avenir;
-        font-size: 30px;
-        font-style: normal;
-        font-weight: 900;
-        line-height: 44px;
-        letter-spacing: 0em;
-        text-align: left;
-        margin-top: 10px;
-        }
-        #macbook-heading{
-        font-family: Avenir;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 900;
-        line-height: 44px;
-        letter-spacing: -0.30000001192092896px;
-        text-align: left;
-        color: #F2F2F2;
-        margin-top: 60px;
-        margin-left: 40px;
-        }
-        }
-        .featured-products{
-        font-family: Avenir;
-        font-size: 24px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 33px;
-        letter-spacing: 0em;
-        text-align: left;
-        margin: 10px;
-        }
-        #headsets{
-        width: 450px;
-        }
-        #phoness{
-        width: 300px;
-        margin-left: -60px;
-        }
-        #power-bank{
-        margin-left: 190px;
-        }  
-        
-    
+#see-all1{
+color: #584DCD;
+margin-left: 1270px;
+}
+#see-all{
+color: #584DCD;
+margin-left: 1294px;
+}
+.cart-mens-leather{
+margin-top: -45px;
+margin-left: 185px;
+}
+.heart-mens-leather{
+margin-top: -40px;
+margin-left: 36px;
+}
+.cart-mens-leather2{
+margin-top: -45px;
+margin-left: 170px;
+}
+.heart-mens-leather2{
+margin-top: -40px;
+margin-left: 31px;
+}
+#mac-image{
+float: left;
+margin-left: 95px;
+padding: 10px;
+margin-top: 50px;
+}
+#mac-div{
+float: right;
+margin-left: 10px;
+}
+#safety-heading{
+font-family: Avenir;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10px;
+}
+#macbook-heading{
+font-family: Avenir;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+margin-top: 60px;
+margin-left: 30px;
+}
+}
+.featured-products{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+margin: 10px;
+}
+#headsets{
+width: 350px;
+}
+#phoness{
+width: 300px;
+margin-left: -60px;
+}
+#power-bank{
+margin-left: 190px;
+}  
+@media only screen and (min-width:1700px){
+#see-all1{
+color: #584DCD;
+margin-left: 1325px;
+}
+#see-all{
+color: #584DCD;
+margin-left: 1344px;
+}
+.cart-mens-leather{
+margin-top: -45px;
+margin-left: 199px;
+}
+.heart-mens-leather{
+margin-top: -40px;
+margin-left: 40px;
+}
+.cart-mens-leather2{
+margin-top: -45px;
+margin-left: 185px;
+}
+.heart-mens-leather2{
+margin-top: -40px;
+margin-left: 30px;
+}
+#mac-image{
+float: left;
+margin-left: 115px;
+padding: 10px;
+margin-top: 50px;
+}
+#mac-div{
+float: right;
+margin-left: 10px;
+}
+#safety-heading{
+font-family: Avenir;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10px;
+}
+#macbook-heading{
+font-family: Avenir;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.30000001192092896px;
+text-align: left;
+color: #F2F2F2;
+margin-top: 60px;
+margin-left: 50px;
+}
+}
+.featured-products{
+font-family: Avenir;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+margin: 10px;
+}
+#headsets{
+width: 450px;
+}
+#phoness{
+width: 300px;
+margin-left: -60px;
+}
+#power-bank{
+margin-left: 190px;
+}  
+
+
